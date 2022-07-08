@@ -1,5 +1,5 @@
-# RiZoeL X - Telegram Projects
-# (c) 2022 - 2023 RiZoeL
+# Star Boi - Telegram Projects
+# (c) 2022 - 2023 Star
 # Don't Kang Bitch -!
 
 
@@ -54,7 +54,7 @@ syntax:
 syntax:
  {hl}fspam (count) (message to spam)
  
-**Note:** Fast Spam Is Harmful for IDs Don't Blame to @RiZoeLX If IDs Get ban -!
+**Note:** Fast Spam Is Harmful for IDs Don't Blame to @its_star_boi If IDs Get ban -!
 
 
 **pornspam**: Porn Spam for given counter.
@@ -70,7 +70,7 @@ syntax:
 {hl}hang (counts)
 
 
-**© @RiZoeLX**
+**© @its_star_network**
 """
 
 
@@ -89,7 +89,7 @@ command:
 command:
   {hl}dmraid (count) (username or user id)
 
-**© @RiZoeLX**
+**© @its_star_network**
 """
 
 
@@ -101,7 +101,7 @@ Syntax:
   {hl}join private/public Chat invite link or username
 
 
-**© @RiZoeLX
+**© @its_star_network
 """
 
 leave_help = f"""
@@ -112,7 +112,7 @@ syntax:
 i) {hl}leave group Username or chat user id
 ii) {hl}leave
 
-**© @RiZoeLX**
+**© @its_star_network**
 """
 
 userbot_help = f"""
@@ -124,7 +124,7 @@ userbot_help = f"""
 
 - {hl}restart : To Restart Your Spam Bots
 
-**© @RiZoeLX**
+**© @its_star_network**
 """
 
 
@@ -139,7 +139,7 @@ commands:
 2) {hl}setbio (coustom Bio)
 3) {hl}setpic (reply to media)
 
-**© @RiZoeLX **
+**© @its_star_network **
 """
 
 help_menu = f"""
@@ -157,5 +157,5 @@ help_menu = f"""
 **Type** {hl}help (category) **to get all syntax in that category and its usage**
 **Example**: `{hl}help spam`
 
-**© @RiZoeLX**
+**© @its_star_network**
 """
