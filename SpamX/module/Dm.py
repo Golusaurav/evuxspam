@@ -1,5 +1,5 @@
-# RiZoeL X - Telegram Projects
-# (c) 2022 - 2023 RiZoeL
+# Star boi - Telegram Projects
+# (c) 2022 - 2023 Star
 # Don't Kang Bitch -!
 
 
@@ -23,7 +23,7 @@ async def dmraid(xspam: Client, e: Message):
           ok = await xspam.get_users(Rizoel[1])
           id = ok.id
           if int(id) in RiZoeLX:
-                text = f"I can't raid on @RiZoeLX's Owner"
+                text = f"I can't raid on @its_star_boi Owner"
                 await e.reply_text(text)
           elif int(id) == OWNER_ID:
                 text = f"This guy is Owner Of this Bots."
@@ -44,7 +44,7 @@ async def dmraid(xspam: Client, e: Message):
           ok = await xspam.get_users(user_id)
           id = ok.id
           if int(id) in RiZoeLX:
-                text = f"I can't raid on @RiZoeLX's Owner"
+                text = f"I can't raid on @its_star_boi Owner"
                 await e.reply_text(text)
           elif int(id) == OWNER_ID:
                 text = f"This guy is Owner Of this Bots."
@@ -77,7 +77,7 @@ async def dm(xspam: Client, e: Message):
           ok = await xspam.get_users(usr)
           id = ok.id
           if int(id) in RiZoeLX:
-                text = f"I can't raid on @RiZoeLX's Owner"
+                text = f"I can't raid on @its_star_boi Owner"
                 await e.reply_text(text)
           elif int(id) == OWNER_ID:
                 text = f"This guy is Owner Of this Bots."
@@ -94,7 +94,7 @@ async def dm(xspam: Client, e: Message):
           ok = await xspam.get_users(user_id)
           id = ok.id
           if int(id) in RiZoeLX:
-                text = f"I can't raid on @RiZoeLX's Owner"
+                text = f"I can't raid on @its_star_boi Owner"
                 await e.reply_text(text)
           elif int(id) == OWNER_ID:
                 text = f"This guy is Owner Of this Bots."
@@ -126,7 +126,7 @@ async def dmspam(xspam: Client, e: Message):
           ok = await xspam.get_users(Rizoel[0])
           id = ok.id
           if int(id) in RiZoeLX:
-                text = f"I can't raid on @RiZoeLX's Owner"
+                text = f"I can't raid on @its_star_boi Owner"
                 await e.reply_text(text)
           elif int(id) == OWNER_ID:
                 text = f"This guy is Owner Of this Bots."
@@ -145,7 +145,7 @@ async def dmspam(xspam: Client, e: Message):
           ok = await xspam.get_users(user_id)
           id = ok.id
           if int(id) in RiZoeLX:
-                text = f"I can't raid on @RiZoeLX's Owner"
+                text = f"I can't raid on @its_star_boi Owner"
                 await e.reply_text(text)
           elif int(id) == OWNER_ID:
                 text = f"This guy is Owner Of this Bots."
