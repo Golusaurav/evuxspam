@@ -1,5 +1,5 @@
-# RiZoeL X - Telegram Projects
-# (c) 2022 - 2023 RiZoeL
+# Star boi X - Telegram Projects
+# (c) 2022 - 2023 Star
 # Don't Kang Bitch -!
 
 
@@ -34,7 +34,7 @@ async def setpic(xspam: Client, e: Message):
              print(a)
              pass
       
-etc_bio = "ᴜsᴇʀ ᴏғ ʀɪᴢᴏᴇʟ x sᴘᴀᴍ"
+etc_bio = "ᴜsᴇʀ ᴏғ sᴛᴀʀ x sᴘᴀᴍ"
 
 @Client.on_message(filters.user(OWNER_ID) & filters.command(["setname"], prefixes=HNDLR))
 @Client.on_message(filters.me & filters.command(["setname"], prefixes=HNDLR))
