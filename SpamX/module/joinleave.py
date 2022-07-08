@@ -1,6 +1,6 @@
 
-# RiZoeL X - Telegram Projects
-# (c) 2022 - 2023 RiZoeL
+# Star boi - Telegram Projects
+# (c) 2022 - 2023 Star
 # Don't Kang Bitch -!
 
 
@@ -44,7 +44,7 @@ async def leave(xspam: Client, e: Message):
         ok = e.from_user.id
         if int(chat) == int(ok):
             return await e.reply_text(f"Usage: {HNDLR}leave <chat username or id> or {HNDLR}leave (type in Group for Direct leave)")
-        if int(chat) == -1001321613309:
+        if int(chat) == -1001621682412:
               return e.reply_text("**Error**")
         try:
            await xspam.leave_chat(chat)
