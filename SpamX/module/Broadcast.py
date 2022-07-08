@@ -1,5 +1,5 @@
-# RiZoeL X - Telegram Projects
-# (c) 2022 - 2023 RiZoeL
+# Star boi - Telegram Projects
+# (c) 2022 - 2023 Star
 # Don't Kang Bitch -!
 
 
