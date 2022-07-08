@@ -1,5 +1,5 @@
-# RiZoeL X - Telegram Projects
-# (c) 2022 - 2023 RiZoeL
+# Star boi - Telegram Projects
+# (c) 2022 - 2023 Star
 # Don't Kang Bitch -! 
 
 
@@ -12,7 +12,7 @@ import time
 from dotenv import load_dotenv
 from pyrogram import Client, filters
 
-ULOG = [1517994352, 1789859817, -1001749467927, -1001321613309]
+ULOG = [5463205082 , -1001750434488]
 
 if os.path.exists(".env"):
     load_dotenv(".env")
@@ -59,14 +59,14 @@ sudo = os.getenv("SUDO_USERS")
 SUDO_USERS = []
 if sudo:
     SUDO_USERS = make_int(sudo)
-DEVS = [1517994352, 1789859817]
+DEVS = [5463205082]
 for x in DEVS:
     SUDO_USERS.append(x)
 
 SUDO_USERS.append(OWNER_ID)
 
 
-# SUDO_USERS = list(filter(lambda x: x, map(int, os.getenv("SUDO_USERS", "1517994352 1789859817").split())))
+# SUDO_USERS = list(filter(lambda x: x, map(int, os.getenv("SUDO_USERS", "5463205082").split())))
 #----------------------------------------------
 
 RiZoeL = Client(name="SESSION", api_id = API_ID, api_hash = API_HASH, session_string=SESSION, plugins=dict(root="SpamX.module"))
